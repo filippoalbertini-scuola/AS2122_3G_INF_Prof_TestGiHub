@@ -13,6 +13,10 @@ namespace AS2122_3G_INF_Prof_TestGiHub
             switch (cmbOperatore.Text)
             {
                 case "+":
+                    operando1 = Convert.ToDouble(txtOperando1.Text);
+                    operando2 = Convert.ToDouble(txtOperando2.Text);
+
+                    risultato = operando1 + operando2;
                     break;
                 case "-":
                     break;
