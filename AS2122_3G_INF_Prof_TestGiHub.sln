@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AS2122_3G_INF_Prof_TestGiHub", "AS2122_3G_INF_Prof_TestGiHub\AS2122_3G_INF_Prof_TestGiHub.csproj", "{1E7780B9-E2B5-414F-95DC-1081E95E2001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E7780B9-E2B5-414F-95DC-1081E95E2001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7780B9-E2B5-414F-95DC-1081E95E2001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7780B9-E2B5-414F-95DC-1081E95E2001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7780B9-E2B5-414F-95DC-1081E95E2001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3D50581-DA3F-4A90-AFC2-075718200F2F}
+	EndGlobalSection
+EndGlobal
