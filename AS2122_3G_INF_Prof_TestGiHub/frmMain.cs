@@ -28,6 +28,12 @@ namespace AS2122_3G_INF_Prof_TestGiHub
 
             // visualizzo il risultato
             lblRisultato.Text = $"Il risultato è {risultato}";
+
+            // coloro il risultato
+            if (risultato < 0)
+                lblRisultato.ForeColor = Color.Red;
+            else
+                lblRisultato.ForeColor = Color.Green;
         }
     }
 }
