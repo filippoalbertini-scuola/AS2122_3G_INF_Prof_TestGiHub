@@ -98,6 +98,7 @@
             this.btnCalcola.TabIndex = 3;
             this.btnCalcola.Text = "Calcola";
             this.btnCalcola.UseVisualStyleBackColor = true;
+            this.btnCalcola.Click += new System.EventHandler(this.btnCalcola_Click);
             // 
             // lblRisultato
             // 
